@@ -5,6 +5,14 @@ export const Skill = () => {
     <div>
          <section className="skills container flex" id="skills">
           <div>
+            <i class="fa-brands fa-react"></i>
+            <span>React</span>
+          </div>
+          <div>
+            <i class="fa-brands fa-node"></i>
+            <span>Node</span>
+          </div>
+          <div>
             <i className="fa-brands fa-html5"></i>
             <span>HTML</span>
           </div>
