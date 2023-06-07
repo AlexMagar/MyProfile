@@ -8,7 +8,7 @@ export const Hero = () => {
             <div className="left flex">
               <div>
                 Hi I'm
-                <span className="name">Laxman Magar</span>
+                <span className="name"> Laxman Magar</span>
               </div>
               <div className="tag">Soft. Engineer</div>
               <p>I love coding and teach other what i know</p>
