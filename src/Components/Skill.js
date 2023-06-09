@@ -5,11 +5,11 @@ export const Skill = () => {
     <div>
          <section className="skills container flex" id="skills">
           <div>
-            <i class="fa-brands fa-react"></i>
+            <i className="fa-brands fa-react"></i>
             <span>React</span>
           </div>
           <div>
-            <i class="fa-brands fa-node"></i>
+            <i className="fa-brands fa-node"></i>
             <span>Node</span>
           </div>
           <div>
