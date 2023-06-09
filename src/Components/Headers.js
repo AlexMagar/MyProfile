@@ -15,7 +15,7 @@ export const Headers = () => {
             </div>
             <div className="menu">
               <input type="checkbox" id="check" />
-              <label for="check" className="menu-icon">
+              <label htmlFor="check" className="menu-icon">
                 <i className="fa-solid fa-bars"></i>
               </label>
               <ul className="navigation flex">
